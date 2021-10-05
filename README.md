@@ -20,6 +20,8 @@ Usage:
 
 Collect crypto data every 30 minutes from uphold api. The list of currencies can be seen extended in src/uphold_api/cryptocurrency_api.rs
 
+Termin command to start collection crypto data: cargo run
+
 The default save path is cryptocurrency_rates_history.json in src folder.
 
 For predictions run 
