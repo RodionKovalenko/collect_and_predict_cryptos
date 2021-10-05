@@ -18,20 +18,16 @@ scipy
 
 Usage:
 
-Collect crypto data every 30 minutes from uphold api. 
-The list of currencies can be seen extended in 
-
-src/uphold_api/cryptocurrency_api.rs
-
+Collect crypto data every 30 minutes from uphold api. The list of currencies can be seen extended in src/uphold_api/cryptocurrency_api.rs
 
 The default save path is cryptocurrency_rates_history.json in src folder.
 
-
 For predictions run 
-   python lstm-conv-dense.py
-
+		python lstm-conv-dense.py
 
 Or use any other framework like Spyder to run the following script.
+
+
 
 After script is run, two folders will be created:
 	- predictions
