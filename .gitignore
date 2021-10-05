@@ -5,6 +5,6 @@
 /.idea/rustCrates.iml
 /.idea/vcs.xml
 /backup
-/src/predictions/**
-/src/saved_models/**
+/predictions/**
+/saved_models/**
 
